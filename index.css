@@ -1,0 +1,55 @@
+
+body{
+    background-color: rgba(160, 201, 99, 0.89);
+}
+.top-banner{
+    margin-bottom: 120px;
+}
+.italic-style{
+    font-style: italic;
+}
+.flexible{
+    display: flex;
+}
+.half-width{
+width: 50%;
+padding-left: 5%;
+text-align: center;
+}
+.title{
+    font-size: 60px;
+    margin-bottom: 20px; 
+}
+.text2{
+    margin-top: 0;
+}
+.heading-text p{
+    font-size: 20px;
+    text-align: justify;
+}
+.heading-picture{
+    padding-top: 50px;
+}
+.half-width img{
+    border-radius: 10px;
+}
+.middle-description{
+    padding-right: 5%;
+}
+#middle-text{
+    padding-top:80px;
+}
+.profile-pic{
+    width: 80%;
+}
+.font-size{
+    font-size: 25px;
+    padding-right: 30%;
+    color: orangered;
+}
+.orange-color2{
+    color: orange;
+}
+#bottom-text{
+    text-align: left;
+}
